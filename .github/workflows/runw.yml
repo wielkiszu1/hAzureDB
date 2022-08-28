@@ -1,5 +1,4 @@
 name: Run a notebook in databricks on PRs
-
 on:
  [push]
 
